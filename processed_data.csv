@@ -1,0 +1,65 @@
+0
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	-1.3889870127239399
+  (0, 1)	-1.3501287083357842
+  (0, 2)	1.0
+  (0, 10)	1.0
+  (0, 15)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	-0.7657236095785821
+  (0, 1)	-0.7481604944281095
+  (0, 3)	1.0
+  (0, 11)	1.0
+  (0, 14)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	-0.14246020643322416
+  (0, 1)	8.759790418955886e-16
+  (0, 4)	1.0
+  (0, 12)	1.0
+  (0, 13)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	0.48080319671213373
+  (0, 1)	0.45577593338723993
+  (0, 5)	1.0
+  (0, 10)	1.0
+  (0, 15)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	1.1040665998574917
+  (0, 1)	1.0577441472949147
+  (0, 6)	1.0
+  (0, 10)	1.0
+  (0, 16)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	8.857105671401057e-16
+  (0, 1)	0.15479182643340256
+  (0, 7)	1.0
+  (0, 11)	1.0
+  (0, 13)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	-1.0150289708367253
+  (0, 1)	-1.2297350655542492
+  (0, 8)	1.0
+  (0, 10)	1.0
+  (0, 14)	1.0"
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 5 stored elements and shape (1, 17)>
+  Coords	Values
+  (0, 0)	1.7273300030028496
+  (0, 1)	1.6597123612025892
+  (0, 9)	1.0
+  (0, 12)	1.0
+  (0, 15)	1.0"

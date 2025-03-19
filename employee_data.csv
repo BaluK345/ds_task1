@@ -1,0 +1,9 @@
+Name,Age,Salary,Education,Department
+Alice,25.0,50000.0,Bachelor,IT
+Bob,30.0,60000.0,Master,HR
+Charlie,35.0,,PhD,Finance
+David,40.0,80000.0,Bachelor,IT
+Eve,45.0,90000.0,,Marketing
+Frank,,75000.0,Master,Finance
+Grace,28.0,52000.0,Bachelor,HR
+Hank,50.0,100000.0,PhD,IT
